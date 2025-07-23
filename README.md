@@ -29,6 +29,6 @@ Este proyecto es un formulario HTML que valida los campos de **nombre** y **corr
   /^[A-Za-zÁÉÍÓÚÑáéíóúñ\s'-]{2,40}$/
 
 **Correo electrónico:**
-
-   /^[^\s@]+@[^\s@]+\.[^\s@]+$/
+```js
+ /^[^\s@]+@[^\s@]+\.[^\s@]+$/
 
